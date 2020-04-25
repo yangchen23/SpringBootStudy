@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>SpringBootRoot</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>atguigu-spring-boot-starter</module>
+        <module>atguigu-spring-boot-starter-autoconfigurer</module>
+        <module>spring-boot-starter-test</module>
+        <module>springboot-11-cache</module>
+        <module>springboot-12-amqp</module>
+        <module>springboot-13-elastic</module>
+        <module>springboot-14-task</module>
+        <module>springboot-15-security</module>
+    </modules>
+</project>
