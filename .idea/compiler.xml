@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-12-amqp" />
+        <module name="atguigu-spring-boot-starter" />
+        <module name="springboot-13-elastic" />
+        <module name="springboot-15-security" />
+        <module name="spring-boot-starter-test" />
+        <module name="springboot-14-task" />
+        <module name="springboot-11-cache" />
+        <module name="atguigu-spring-boot-starter-autoconfigurer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="atguigu-spring-boot-starter" target="1.5" />
+      <module name="atguigu-spring-boot-starter-autoconfigurer" target="1.8" />
+      <module name="spring-boot-starter-test" target="1.8" />
+      <module name="springboot-11-cache" target="1.8" />
+      <module name="springboot-12-amqp" target="1.8" />
+      <module name="springboot-13-elastic" target="1.8" />
+      <module name="springboot-14-task" target="1.8" />
+      <module name="springboot-15-security" target="1.8" />
+      <module name="SpringBootRoot" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="atguigu-spring-boot-starter-autoconfigurer" options="-parameters" />
+      <module name="spring-boot-starter-test" options="-parameters" />
+      <module name="springboot-11-cache" options="-parameters" />
+      <module name="springboot-12-amqp" options="-parameters" />
+      <module name="springboot-13-elastic" options="-parameters" />
+      <module name="springboot-14-task" options="-parameters" />
+      <module name="springboot-15-security" options="-parameters" />
+    </option>
+  </component>
+</project>

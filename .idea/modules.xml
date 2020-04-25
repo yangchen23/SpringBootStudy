@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBootRoot.iml" filepath="$PROJECT_DIR$/SpringBootRoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-spring-boot-starter/atguigu-spring-boot-starter.iml" filepath="$PROJECT_DIR$/atguigu-spring-boot-starter/atguigu-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu-spring-boot-starter-autoconfigurer/atguigu-spring-boot-starter-autoconfigurer.iml" filepath="$PROJECT_DIR$/atguigu-spring-boot-starter-autoconfigurer/atguigu-spring-boot-starter-autoconfigurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-test/spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/spring-boot-starter-test/spring-boot-starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-11-cache/springboot-11-cache.iml" filepath="$PROJECT_DIR$/springboot-11-cache/springboot-11-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-12-amqp/springboot-12-amqp.iml" filepath="$PROJECT_DIR$/springboot-12-amqp/springboot-12-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-13-elastic/springboot-13-elastic.iml" filepath="$PROJECT_DIR$/springboot-13-elastic/springboot-13-elastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-14-task/springboot-14-task.iml" filepath="$PROJECT_DIR$/springboot-14-task/springboot-14-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-15-security/springboot-15-security.iml" filepath="$PROJECT_DIR$/springboot-15-security/springboot-15-security.iml" />
+    </modules>
+  </component>
+</project>
