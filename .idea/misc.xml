@@ -4,6 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-user/pom.xml" />
       </list>
     </option>
   </component>

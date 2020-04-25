@@ -17,5 +17,10 @@
         <module>springboot-13-elastic</module>
         <module>springboot-14-task</module>
         <module>springboot-15-security</module>
+        <module>dubbo-provider-ticket</module>
+        <module>dubbo-consumer-user</module>
+        <module>cloud-eureka-server</module>
+        <module>cloud-provider-ticket</module>
+        <module>cloud-consumer-user</module>
     </modules>
 </project>
