@@ -6,19 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-11-cache" />
-        <module name="springboot-12-amqp" />
-        <module name="cloud-provider-ticket" />
-        <module name="atguigu-spring-boot-starter-autoconfigurer" />
-        <module name="dubbo-provider-ticket" />
-        <module name="springboot-13-elastic" />
-        <module name="dubbo-consumer-user" />
-        <module name="spring-boot-starter-test" />
-        <module name="cloud-eureka-server" />
-        <module name="cloud-consumer-user" />
-        <module name="springboot-14-task" />
-        <module name="atguigu-spring-boot-starter" />
         <module name="springboot-15-security" />
+        <module name="springboot-18-actuator" />
+        <module name="dubbo-provider-ticket" />
+        <module name="springboot-11-cache" />
+        <module name="springboot-14-task" />
+        <module name="cloud-eureka-server" />
+        <module name="cloud-provider-ticket" />
+        <module name="dubbo-consumer-user" />
+        <module name="atguigu-spring-boot-starter" />
+        <module name="springboot-13-elastic" />
+        <module name="cloud-consumer-user" />
+        <module name="atguigu-spring-boot-starter-autoconfigurer" />
+        <module name="springboot-17-deploy" />
+        <module name="springboot-12-amqp" />
+        <module name="spring-boot-starter-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -35,6 +37,8 @@
       <module name="springboot-13-elastic" target="1.8" />
       <module name="springboot-14-task" target="1.8" />
       <module name="springboot-15-security" target="1.8" />
+      <module name="springboot-17-deploy" target="1.8" />
+      <module name="springboot-18-actuator" target="1.8" />
       <module name="SpringBootRoot" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -52,6 +56,8 @@
       <module name="springboot-13-elastic" options="-parameters" />
       <module name="springboot-14-task" options="-parameters" />
       <module name="springboot-15-security" options="-parameters" />
+      <module name="springboot-17-deploy" options="-parameters" />
+      <module name="springboot-18-actuator" options="-parameters" />
     </option>
   </component>
 </project>

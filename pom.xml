@@ -22,5 +22,7 @@
         <module>cloud-eureka-server</module>
         <module>cloud-provider-ticket</module>
         <module>cloud-consumer-user</module>
+        <module>springboot-17-deploy</module>
+        <module>springboot-18-actuator</module>
     </modules>
 </project>

@@ -16,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-13-elastic/springboot-13-elastic.iml" filepath="$PROJECT_DIR$/springboot-13-elastic/springboot-13-elastic.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-14-task/springboot-14-task.iml" filepath="$PROJECT_DIR$/springboot-14-task/springboot-14-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-15-security/springboot-15-security.iml" filepath="$PROJECT_DIR$/springboot-15-security/springboot-15-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-17-deploy/springboot-17-deploy.iml" filepath="$PROJECT_DIR$/springboot-17-deploy/springboot-17-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-18-actuator/springboot-18-actuator.iml" filepath="$PROJECT_DIR$/springboot-18-actuator/springboot-18-actuator.iml" />
     </modules>
   </component>
 </project>

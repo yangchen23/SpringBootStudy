@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/cloud-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-provider-ticket/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-17-deploy/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-18-actuator/pom.xml" />
       </list>
     </option>
   </component>
